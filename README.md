@@ -1,1 +1,1 @@
-# Text-Extraction-From-Image
+# Text-Extraction-From-Image using Pytesseract Library
